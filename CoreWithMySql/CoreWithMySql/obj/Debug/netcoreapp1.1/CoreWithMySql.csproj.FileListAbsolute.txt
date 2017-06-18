@@ -1,0 +1,10 @@
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/bin/Debug/netcoreapp1.1/CoreWithMySql.deps.json
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/bin/Debug/netcoreapp1.1/CoreWithMySql.runtimeconfig.json
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/bin/Debug/netcoreapp1.1/CoreWithMySql.runtimeconfig.dev.json
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/bin/Debug/netcoreapp1.1/CoreWithMySql.dll
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/bin/Debug/netcoreapp1.1/CoreWithMySql.pdb
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/obj/Debug/netcoreapp1.1/CoreWithMySql.csprojResolveAssemblyReference.cache
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/obj/Debug/netcoreapp1.1/CoreWithMySql.csproj.CoreCompileInputs.cache
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/obj/Debug/netcoreapp1.1/CoreWithMySql.AssemblyInfo.cs
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/obj/Debug/netcoreapp1.1/CoreWithMySql.dll
+/Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/obj/Debug/netcoreapp1.1/CoreWithMySql.pdb

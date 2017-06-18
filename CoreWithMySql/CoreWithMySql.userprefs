@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AA0D81C4-E76B-435C-ABC9-F6AEB3C1D716}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreWithMySql/Program.cs">
+    <Files>
+      <File FileName="CoreWithMySql/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoreWithMySql PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
