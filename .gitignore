@@ -1,0 +1,5 @@
+/bin/
+/Dependencies/
+/obj/
+launch.json
+tasks.json
