@@ -3,3 +3,5 @@
 /obj/
 launch.json
 tasks.json
+/CoreWithMySql/CoreWithMySql/bin/
+/CoreWithMySql/CoreWithMySql/obj/
