@@ -1,14 +1,30 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "02259946ec4ea5c4b01e05c983b1c7c58a753797"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "corewithmysql/1.0.0": {
+        "dependencies": {
+          "MySqlConnector": "0.20.2"
+        },
         "runtime": {
           "CoreWithMySql.dll": {}
+        }
+      },
+      "mysqlconnector/0.20.2": {
+        "dependencies": {
+          "System.Data.Common": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/MySqlConnector.dll": {}
+        }
+      },
+      "system.data.common/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.2/System.Data.Common.dll": {}
         }
       }
     }
@@ -18,6 +34,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "mysqlconnector/0.20.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qP3S7uMhukPiufgyphQxpHutcN4OK+YhcMlzVxQq0PmhrYNiTjBmGuz2CPLOQYI1IKC2ksCx7YSukjZ3kWMHnA==",
+      "path": "mysqlconnector/0.20.2",
+      "hashPath": "mysqlconnector.0.20.2.nupkg.sha512"
+    },
+    "system.data.common/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iFRyC3B8NvKbQ9Wt6/wAyqsf2lXzQgjTFOxI6fmHT9y0twRRzccZkAzzIrVu2R9yQYaFVvsWSgK8yBRAYMV8xw==",
+      "path": "system.data.common/4.3.0",
+      "hashPath": "system.data.common.4.3.0.nupkg.sha512"
     }
   }
 }
