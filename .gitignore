@@ -1,7 +1,7 @@
-/bin/
+bin/
 /Dependencies/
-/obj/
+obj/
 launch.json
 tasks.json
-/CoreWithMySql/CoreWithMySql/bin/
-/CoreWithMySql/CoreWithMySql/obj/
+CoreWithMySql/CoreWithMySql/bin/
+CoreWithMySql/CoreWithMySql/obj/

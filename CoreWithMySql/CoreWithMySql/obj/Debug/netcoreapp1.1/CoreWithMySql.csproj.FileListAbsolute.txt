@@ -8,3 +8,13 @@
 /Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/obj/Debug/netcoreapp1.1/CoreWithMySql.dll
 /Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/obj/Debug/netcoreapp1.1/CoreWithMySql.pdb
 /Users/bmccoy/Git/CoreWithMySql/CoreWithMySql/CoreWithMySql/bin/Debug/netcoreapp1.1/CoreWithMySql.dll.config
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\bin\Debug\netcoreapp1.1\CoreWithMySql.dll.config
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\bin\Debug\netcoreapp1.1\CoreWithMySql.deps.json
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\bin\Debug\netcoreapp1.1\CoreWithMySql.runtimeconfig.json
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\bin\Debug\netcoreapp1.1\CoreWithMySql.runtimeconfig.dev.json
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\bin\Debug\netcoreapp1.1\CoreWithMySql.dll
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\bin\Debug\netcoreapp1.1\CoreWithMySql.pdb
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\obj\Debug\netcoreapp1.1\CoreWithMySql.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\obj\Debug\netcoreapp1.1\CoreWithMySql.AssemblyInfo.cs
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\obj\Debug\netcoreapp1.1\CoreWithMySql.dll
+C:\Users\Bryan\Git\CoreWithMySql\CoreWithMySql\CoreWithMySql\obj\Debug\netcoreapp1.1\CoreWithMySql.pdb
