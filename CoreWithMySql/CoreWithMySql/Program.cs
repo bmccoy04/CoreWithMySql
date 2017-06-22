@@ -10,7 +10,7 @@ namespace CoreWithMySql
 
         static void Main(string[] args)
         {
-            var connection = new MySqlConnection("");
+            var connection = new MySqlConnection("Server=192.168.7.100;Database=Test;UserId=;Pwd=;");
 
             var command = connection.CreateCommand() as MySqlCommand;
             if (connection.State == System.Data.ConnectionState.Closed)
@@ -59,21 +59,6 @@ namespace CoreWithMySql
         {
             get;
             set;
-        }
-    }
-
-    class AppDb : IDisposable
-    {
-        public MySqlConnection Connection;
-
-        public AppDb()
-        {
-            Connection = new MySqlConnection("");
-        }
-
-        public void Dispose()
-        {
-            Connection.Close();
         }
     }
 }
