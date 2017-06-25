@@ -2,6 +2,7 @@
 using Dapper;
 using MySql.Data.MySqlClient;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace CoreWithMySql.Dapper
 {
@@ -9,14 +10,25 @@ namespace CoreWithMySql.Dapper
     {
         static void Main(string[] args)
         {
-            var connection = new MySqlConnection("Server=192.168.7.100;Database=Test;UserId=;Pwd=;");
 
-            var testTables = connection.Query<TestTable>("Select * from TestTable");
+            IEnumerable<TestTable> testTables = new List<TestTable>();
+			var now = DateTime.Now;
 
-            connection.Close();
+            for (int i = 0; i <= 1000; i++)
+            {
 
-            testTables.ToList().ForEach(x => Console.WriteLine($"{x.Name} and {x.Url}"));
-            Console.WriteLine("Hello World!");
+                using (var connection = new MySqlConnection("Server=192.168.7.100;Database=Test;UserId=TestUser;Pwd=tstUserAccount;"))
+                {
+
+                    testTables = connection.Query<TestTable>("Select * from TestTable");
+
+                }
+            }
+
+			var fin = DateTime.Now;
+			var diff = fin - now;
+			Console.WriteLine($"Time elapsed: {diff.TotalSeconds}");
+
         }
     }
 
